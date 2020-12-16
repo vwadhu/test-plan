@@ -1,3 +1,3 @@
 My name is Vikas.
 I am learning GIT Hub.
-This is the third line.
+Git is a great version tracking tool. I am loving it!
