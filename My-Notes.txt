@@ -1,0 +1,3 @@
+git add . (to stage it)
+git commit -m "message 1" 
+git push
