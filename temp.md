@@ -1,1 +1,0 @@
-This is a temporary file and I am trying out renaming and deleting files.
